@@ -10,7 +10,7 @@ This project includes a simple **TLS server** and **TLS client**, secured with s
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/simple-tls-socket-demo.git
+git clone https://github.com/Mandamientos/simple-tls-socket-demo.git
 cd simple-tls-socket-demo
 ```
 
