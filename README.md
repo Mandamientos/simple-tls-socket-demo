@@ -3,7 +3,7 @@
 A minimal example of a secure TLS connection using Python's built-in `ssl` and `socket` libraries.  
 This project includes a simple **TLS server** and **TLS client**, secured with self-signed certificates.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
